@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nombre": "Usuario",
+    "apellido": "Demo",
+    "rut": "11.111.111-1",
+    "email": "demo@mercadolocal.cl",
+    "telefono": "+56 9 1234 5678",
+    "direccion": "Santiago, Chile",
+    "password": "12345678",
+    "rol": "cliente",
+    "direcciones": [
+      "Santiago, Chile"
+    ]
+  }
+]
